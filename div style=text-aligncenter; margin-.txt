@@ -1,0 +1,24 @@
+<div style="text-align:center; margin-top:40px;"><img src="logo.png"></div>
+
+<div style="text-align:center; margin-top:40px;">
+<a style="padding-right:20px;"href="#">Home</a>
+<a style="padding-right:20px;"href="#">About</a>
+<a style="padding-right:20px;"href="#">Challenge</a>
+</div>
+
+<h1 style="font-size:50px; text-align:center;">Hello Mr. Shivansh Bansal</h1> 
+<h2 style="font-size:30px; text-align:center;">I Won the Challenge</h2>
+
+<p style="font-size:20px; text-align:center; line-height: 30px; margin-bottom:50px;">Against all odds, I prevailed in your audacious challenge - to create a fully functional website from scratch. Through determined effort and perseverance, I harnessed my skills in web development, crafting an impressive online presence that defied your expectations. 
+<br>Each line of code was a testament to my unwavering resolve, and the final product stands as an emblem of my triumph over your doubts. The website, a digital masterpiece, is a resounding declaration that I possess the capabilities to conquer any obstacle placed before me. <br>This victory is not merely a personal achievement but a testament to the boundless potential that can be unleashed when faced with a seemingly impossible task.</p>
+
+<hr>
+
+<div style="text-align:center;"><a style="font-size:20px; background-color: pink; padding: 15px 35px 15px 35px;" 
+href="https://womendeliver.org/never-underestimate-power-woman//">Read more</a></div>
+
+<h1 style="font-size:50px; text-align:center;">Hahahaha<h1>
+
+
+<img style="width: 40%;" src="won.jpeg">
+
